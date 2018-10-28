@@ -1,9 +1,9 @@
 ## Short Description of app:
 
-Developers are facing the problem of keeping their work and time duration of the project. Simple solution to combact the situation is to make an app to track the record and time duration of the task. Here I have developed the App called Task Tracker. Which gives real time, Name of the project, Start the project date and time and finished date and time and total time lapse.
+The App called Time stamp is tend to fugure out the time laps during the woriking porject. Simpley need to put the name of the task and the start button. When the project finished then press the stop button. so the app will calculate the time spend during building the project. 
 
 
-##Programming Tools:
+## Programming Tools:
 To build this Apps I used various programming language which is as follows:
   * Bootstrap 4 
   * JQuery 
